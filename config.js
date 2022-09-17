@@ -91,7 +91,7 @@ global.APIs = { // API Prefix
   males : 'https://malesin.xyz'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://api.lolhuman.xyz': '3940cd1440b0ee97ab9fb556'
+  'https://api.lolhuman.xyz': '3940cd1440b0ee97ab9fb556'
   'https://api.xteam.xyz': 'ebb6251cc00f9c63',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
   'https://api.lolhuman.xyz': 'e54205a4ca2caa368cc067bb',// 8e66d0934cf741bfd2182c16
