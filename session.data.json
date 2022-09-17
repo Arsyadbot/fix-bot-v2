@@ -1219,14 +1219,8 @@
             "valueMac": {
               "type": "Buffer",
               "data": "ZZY/BkK1wi9mkqPsc5sofb1PB84VWqL1LnA8a/XA3EM="
-            }
-          }
-        }
-      }
-    }
-  }
-}
-},
+    
+    
                 "chainType": 1,
                 "messageKeys": {}
               }
